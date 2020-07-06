@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426636965076",
+    "firebase_url": "https://fingerprintauth-db2e6.firebaseio.com",
+    "project_id": "fingerprintauth-db2e6",
+    "storage_bucket": "fingerprintauth-db2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426636965076:android:6e155cd86067599c3ef741",
+        "android_client_info": {
+          "package_name": "com.fingerprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426636965076-58rjrkr3in6d33o56166ugug2m8ctjum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fingerprint",
+            "certificate_hash": "2646d8bad57d83b0f0369a45ffb5dc2441d0933e"
+          }
+        },
+        {
+          "client_id": "426636965076-fhobtidq0r94hglbs9bung2i62bor9o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1lml1g7pG66cdh0XEZEbu7pm4J7GrEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426636965076-fhobtidq0r94hglbs9bung2i62bor9o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
